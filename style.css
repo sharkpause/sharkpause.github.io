@@ -7,11 +7,15 @@ body {
 }
 
 .bg-site {
-    background-color: #fffef6;
+    background-color: #f7f7f7;
 }
 
 .text-black {
     color: black;
+}
+
+.text-muted {
+    color: rgb(158, 158, 158) !important;
 }
 
 .no-border {
@@ -49,7 +53,7 @@ body {
 }
 
 .bg-ff {
-    background-image: url('images/ff_background.jpeg');
+    background-image: url('images/gowit_background.png');
     background-size: cover;
 }
 
