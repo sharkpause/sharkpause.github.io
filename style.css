@@ -7,7 +7,7 @@ body {
 }
 
 .bg-site {
-    background-color: #f7f7f7;
+    background-color: #fffef6;
 }
 
 .text-black {
@@ -15,7 +15,7 @@ body {
 }
 
 .text-muted {
-    color: rgb(158, 158, 158) !important;
+    color: rgb(230, 230, 230) !important;
 }
 
 .no-border {
@@ -44,15 +44,15 @@ body {
 }
 
 .bg-wyb {
-    background-color: #f3f3f3;
+    background-color: #f6f6f6;
 }
 
-.border-ff {
+.border-gowit {
     border-radius: 20px;
     border-bottom: #6c82ff 5px solid;
 }
 
-.bg-ff {
+.bg-gowit {
     background-image: url('images/gowit_background.png');
     background-size: cover;
 }
@@ -61,11 +61,11 @@ body {
     color: rgb(139, 222, 255);
 }
 
-.bg-cc {
-    background-image: url('images/cli-chess_background.png');
+.bg-nexus {
+    background-color: rgb(34, 34, 34);
 }
 
-.border-cc {
+.border-nexus {
     border-radius: 20px;
     border-bottom: rgb(255, 251, 0) 5px solid;
 }
